@@ -1,0 +1,17 @@
+﻿  mainGame.cpp
+D:\VsC++\Pong_MultiPlayer\Pong_MultiPlayer\mainGame.cpp(16,20): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\VsC++\Pong_MultiPlayer\Pong_MultiPlayer\mainGame.cpp(16,17): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\VsC++\Pong_MultiPlayer\Pong_MultiPlayer\mainGame.cpp(16,14): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\VsC++\Pong_MultiPlayer\Pong_MultiPlayer\mainGame.cpp(52,30): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\VsC++\Pong_MultiPlayer\Pong_MultiPlayer\mainGame.cpp(52,23): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\VsC++\Pong_MultiPlayer\Pong_MultiPlayer\mainGame.cpp(52,20): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\VsC++\Pong_MultiPlayer\Pong_MultiPlayer\mainGame.cpp(52,17): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\VsC++\Pong_MultiPlayer\Pong_MultiPlayer\mainGame.cpp(124,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\VsC++\Pong_MultiPlayer\Pong_MultiPlayer\mainGame.cpp(128,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  Pong_MultiPlayer.vcxproj -> D:\VsC++\Pong_MultiPlayer\x64\Release\Pong_MultiPlayer.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.
